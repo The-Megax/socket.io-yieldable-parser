@@ -1,10 +1,10 @@
 {
-  "name": "socket.io-parser",
+  "name": "socket.io-yieldable-parser",
   "version": "3.3.0",
   "description": "socket.io protocol parser",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Automattic/socket.io-parser.git"
+    "url": "https://github.com/The-Megax/socket.io-yieldable-parser.git"
   },
   "files": [
     "binary.js",
